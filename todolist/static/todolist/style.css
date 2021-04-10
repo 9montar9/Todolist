@@ -1,0 +1,7 @@
+img{
+	width: 10%;
+}
+body{
+	background-image: url(kot.jpg);
+	background-size: cover;
+}
